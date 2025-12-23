@@ -1,0 +1,5 @@
+{
+  "name": "InventoryPro - Stock Management System",
+  "description": "A professional-grade inventory management application built with React, TypeScript, and Tailwind CSS, inspired by enterprise .NET architectures. It features product tracking, movement logging, and real-time stock alerts.",
+  "requestFramePermissions": []
+}
